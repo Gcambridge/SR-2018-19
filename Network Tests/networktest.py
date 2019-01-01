@@ -1,16 +1,26 @@
 import os
+import sys
 
 t = 0
 
-networktests = open("networktests.txt", "a")
-networktests.write("<trial>")
+if(len(sys.argv) > 1 and str(sys.argv[1]) == 'c'):
+    print('Cleaning File')
+    networktests = open('networktests.txt', 'w')
+    networktests.write('Overwritten File\n')
+    networktests.close()
+
+networktests = open('networktests.txt', 'a')
+networktests.write('Start of Trial\n')
 networktests.close()
 
-while(t < 3):
-    os.system('ping 192.168.4.1 >> networktests.txt')
-    t += 1
-    print(t)
+ipaddress = input('input ip address: ')
 
-networktests = open("networktests.txt", "a")
-networktests.write("</trial>")
+while(t < 3):
+    os.system('ping ' + str(ipaddress) + ' >> networktests.txt')
+    t += 1
+    print('End of Trial ' + str(t))
+
+networktests = open('networktests.txt', 'a')
+networktests.write('End of Trial\n')
+
 networktests.close()

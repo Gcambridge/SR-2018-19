@@ -1,166 +1,384 @@
-<trial>
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=2ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=31ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=12ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=4ms TTL=64
+Overwritten File
+Start of Trial
 
-Ping statistics for 192.168.4.1:
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 2ms, Maximum = 31ms, Average = 12ms
+    Minimum = 1ms, Maximum = 1ms, Average = 1ms
 
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=8ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=1ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=12ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=2ms TTL=64
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=2ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=5ms TTL=64
 
-Ping statistics for 192.168.4.1:
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 1ms, Maximum = 12ms, Average = 5ms
+    Minimum = 1ms, Maximum = 5ms, Average = 2ms
 
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=11ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=12ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=12ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=10ms TTL=64
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=98ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=106ms TTL=64
 
-Ping statistics for 192.168.4.1:
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 10ms, Maximum = 12ms, Average = 11ms
-</trial><trial>
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=29ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=43ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=14ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=76ms TTL=64
+    Minimum = 1ms, Maximum = 106ms, Average = 51ms
+End of Trial
+Start of Trial
 
-Ping statistics for 192.168.4.1:
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=2ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=16ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 76ms, Average = 40ms
+    Minimum = 1ms, Maximum = 16ms, Average = 5ms
 
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=65ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=14ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=19ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=35ms TTL=64
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=30ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1ms TTL=64
 
-Ping statistics for 192.168.4.1:
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 14ms, Maximum = 65ms, Average = 33ms
+    Minimum = 1ms, Maximum = 30ms, Average = 8ms
 
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=31ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=11ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=7ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=2ms TTL=64
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=4ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=30ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=16ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=3ms TTL=64
 
-Ping statistics for 192.168.4.1:
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 2ms, Maximum = 31ms, Average = 12ms
-</trial><trial>
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=89ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=13ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=211ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=48ms TTL=64
+    Minimum = 3ms, Maximum = 30ms, Average = 13ms
+End of Trial
+Start of Trial
 
-Ping statistics for 192.168.4.1:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 13ms, Maximum = 211ms, Average = 90ms
-
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=55ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=101ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=102ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=108ms TTL=64
-
-Ping statistics for 192.168.4.1:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 55ms, Maximum = 108ms, Average = 91ms
-
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=92ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=105ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=29ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=34ms TTL=64
-
-Ping statistics for 192.168.4.1:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 29ms, Maximum = 105ms, Average = 65ms
-</trial><trial>
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=116ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=464ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=172ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=82ms TTL=64
-
-Ping statistics for 192.168.4.1:
-    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 82ms, Maximum = 464ms, Average = 208ms
-
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=132ms TTL=64
+Pinging 169.254.224.150 with 32 bytes of data:
 Request timed out.
-Reply from 192.168.4.1: bytes=32 time=6ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=91ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=58ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=264ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=171ms TTL=64
 
-Ping statistics for 192.168.4.1:
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 6ms, Maximum = 132ms, Average = 76ms
+    Minimum = 58ms, Maximum = 264ms, Average = 164ms
 
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=67ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=110ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=362ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=43ms TTL=64
+Pinging 169.254.224.150 with 32 bytes of data:
+Request timed out.
+Reply from 169.254.224.150: bytes=32 time=357ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=914ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=518ms TTL=64
 
-Ping statistics for 192.168.4.1:
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 357ms, Maximum = 914ms, Average = 596ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=517ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=251ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=127ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=195ms TTL=64
+
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 43ms, Maximum = 362ms, Average = 145ms
-</trial><trial>
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=108ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=203ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=1087ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=258ms TTL=64
+    Minimum = 127ms, Maximum = 517ms, Average = 272ms
+End of Trial
+Start of Trial
 
-Ping statistics for 192.168.4.1:
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=1725ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1649ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1401ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=3ms TTL=64
+
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 108ms, Maximum = 1087ms, Average = 414ms
+    Minimum = 3ms, Maximum = 1725ms, Average = 1194ms
 
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=98ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=55ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=173ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=147ms TTL=64
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=1519ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2343ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=8ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1490ms TTL=64
 
-Ping statistics for 192.168.4.1:
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 55ms, Maximum = 173ms, Average = 118ms
+    Minimum = 8ms, Maximum = 2343ms, Average = 1340ms
 
-Pinging 192.168.4.1 with 32 bytes of data:
-Reply from 192.168.4.1: bytes=32 time=165ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=215ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=235ms TTL=64
-Reply from 192.168.4.1: bytes=32 time=331ms TTL=64
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=1371ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1380ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2ms TTL=64
 
-Ping statistics for 192.168.4.1:
+Ping statistics for 169.254.224.150:
     Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 165ms, Maximum = 331ms, Average = 236ms
-</trial>
+    Minimum = 2ms, Maximum = 1380ms, Average = 688ms
+End of Trial
+Start of Trial
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=1135ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1742ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=6ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 1742ms, Average = 721ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=450ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1400ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=4ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=206ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 1400ms, Average = 515ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=81ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=65ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=46ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=523ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 46ms, Maximum = 523ms, Average = 178ms
+End of Trial
+Start of Trial
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=853ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=618ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=999ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1595ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 618ms, Maximum = 1595ms, Average = 1016ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=2358ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=5ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2121ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1192ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 2358ms, Average = 1419ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=363ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1308ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1125ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=28ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 28ms, Maximum = 1308ms, Average = 706ms
+End of Trial
+Start of Trial
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=1678ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2834ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=5ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1901ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 2834ms, Average = 1604ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=851ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2825ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=4ms TTL=64
+Request timed out.
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 2825ms, Average = 1226ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=3ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2117ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=3ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=487ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 2117ms, Average = 652ms
+End of Trial
+Start of Trial
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=30ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1543ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=29ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2545ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 29ms, Maximum = 2545ms, Average = 1036ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=223ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=3460ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=36ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=683ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 36ms, Maximum = 3460ms, Average = 1100ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=543ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1085ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=4ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=630ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 1085ms, Average = 565ms
+End of Trial
+Start of Trial
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=225ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1950ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=807ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2617ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 225ms, Maximum = 2617ms, Average = 1399ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=1014ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=3ms TTL=64
+Request timed out.
+Reply from 169.254.224.150: bytes=32 time=424ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 3, Lost = 1 (25% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 1014ms, Average = 480ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=224ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2964ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=1305ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=8ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 8ms, Maximum = 2964ms, Average = 1125ms
+End of Trial
+Start of Trial
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 0, Lost = 4 (100% loss),
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=3146ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=169ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=2322ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=3233ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 169ms, Maximum = 3233ms, Average = 2217ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=1302ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=5ms TTL=64
+Request timed out.
+Request timed out.
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 2, Lost = 2 (50% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 1302ms, Average = 653ms
+End of Trial
+Start of Trial
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=26ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=4ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=133ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=463ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 463ms, Average = 156ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=141ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=468ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=585ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=590ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 141ms, Maximum = 590ms, Average = 446ms
+
+Pinging 169.254.224.150 with 32 bytes of data:
+Reply from 169.254.224.150: bytes=32 time=475ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=696ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=668ms TTL=64
+Reply from 169.254.224.150: bytes=32 time=825ms TTL=64
+
+Ping statistics for 169.254.224.150:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 475ms, Maximum = 825ms, Average = 666ms
+End of Trial

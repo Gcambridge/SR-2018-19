@@ -18,7 +18,15 @@ def surface_stream():
 			cv2.destroyAllWindows()
 			break
 
-p1 = Process(target=underwater_stream)
-p1.start()
-p2 = Process(target=surface_stream)
-p2.start()
+def startgpsd():
+	os.system("sudo gpsd /dev/ttyAMA0 -F /var/run/gpsd.sock")
+	os.system("sudo foxtrotgps")
+
+underwater_stream = Process(target=underwater_stream)
+underwater_stream.start()
+
+surface_stream = Process(target=surface_stream)
+surface_stream.start()
+
+gpstracker = Process(target=startgpsd)
+gpstracker.start()
